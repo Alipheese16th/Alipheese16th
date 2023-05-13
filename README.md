@@ -1,7 +1,7 @@
  # LINK
- ### 1st PERSONAL PROJECT <a href="#"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2nd TEAM PROJECT  <a href="#"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 공부일지 <a href="#"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1st PERSONAL PROJECT <a href="https://github.com/Alipheese16th/CheeYoonMovie"><img src="https://img.shields.io/badge/CheeYoonMovie[영화리뷰사이트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 2nd TEAM PROJECT  <a href="https://github.com/Alipheese16th/bowow"><img src="https://img.shields.io/badge/bowow[애견용품쇼핑몰]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 공부일지 <a href="https://github.com/Alipheese16th/webPro"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
 
