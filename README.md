@@ -7,9 +7,9 @@
  <a href="https://github.com/Alipheese16th/metabus"><img src="https://img.shields.io/badge/Modeling%20%26%20Unity-purple?style=social&logo=github"/></a>
 
  # KIST-EUROPE SYSTEM
- #### kep-front <a href="https://github.com/Alipheese16th/CheeYoonMovie"><img src="https://img.shields.io/badge/CheeYoonMovie[영화리뷰사이트]-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
- #### kep-was <a href="https://github.com/Alipheese16th/bowow"><img src="https://img.shields.io/badge/bowow[애견용품쇼핑몰]-BE8D6E?style=for-the-badge&logo=github&logoColor=white"/></a>
- #### kep-doc <a href="https://github.com/Alipheese16th/webPro"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+ #### <a href="https://github.com/Alipheese16th/kep-front"><img src="https://img.shields.io/badge/kep-front-8e18c4?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ####  <a href="https://github.com/Alipheese16th/kep-was"><img src="https://img.shields.io/badge/kep-was-8e18c4?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ####  <a href="https://github.com/Alipheese16th/kep-doc"><img src="https://img.shields.io/badge/kep-doc-8e18c4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  
  # 이젠 아카데미 교육 과정
