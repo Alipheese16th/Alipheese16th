@@ -5,11 +5,6 @@
  
  # Modeling & Unity
  <a href="https://github.com/Alipheese16th/metabus"><img src="https://img.shields.io/badge/Modeling%20%26%20Unity-purple?style=social&logo=github"/></a>
-
- # KIST-EUROPE SYSTEM
-  - ~~KIST-FRONT <a href="https://github.com/Alipheese16th/kep-front"><img src="https://img.shields.io/badge/kep-front-8e18c4?style=for-the-badge&logo=github&logoColor=white"/></a>~~
-  - ~~KIST-BACK <a href="https://github.com/Alipheese16th/kep-was"><img src="https://img.shields.io/badge/kep-was-8e18c4?style=for-the-badge&logo=github&logoColor=white"/></a>~~
-  - ~~KIST-DOC <a href="https://github.com/Alipheese16th/kep-doc"><img src="https://img.shields.io/badge/kep-doc-8e18c4?style=for-the-badge&logo=github&logoColor=white"/></a>~~
  
  # 이젠 아카데미 교육 과정
   - 첫번째 개인 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/CheeYoonMovie"><img src="https://img.shields.io/badge/CheeYoonMovie[영화리뷰사이트]-000000?style=flat&logo=github&logoColor=white"/></a>
