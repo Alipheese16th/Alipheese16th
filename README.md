@@ -1,6 +1,6 @@
 
  # 이젠 아카데미 풀스택 과정
-  - 학원 공부일지 (6개월) &nbsp; <a href="https://github.com/Alipheese16th/webPro"><img src="https://img.shields.io/badge/공부일지-2fa2a8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  - 교육과정 일지노트  &nbsp; <a href="https://github.com/Alipheese16th/webPro"><img src="https://img.shields.io/badge/공부일지-2fa2a8?style=for-the-badge&logo=github&logoColor=white"/></a>
   - 첫번째 개인 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/CheeYoonMovie"><img src="https://img.shields.io/badge/CheeYoonMovie[영화리뷰사이트]-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   - 두번째 팀 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/bowow"><img src="https://img.shields.io/badge/bowow[애견용품쇼핑몰]-BE8D6E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
