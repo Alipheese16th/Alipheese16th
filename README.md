@@ -1,13 +1,13 @@
- # 백준 코딩 테스트
- <a href="https://github.com/Alipheese16th/CodingTest"><img src="https://img.shields.io/badge/CodingTest-black?style=social&logo=github"/></a>
-
- <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwoo1103)](https://solved.ac/shwoo1103/)-->
 
  # 이젠 아카데미 풀스택 과정
-  - 첫번째 개인 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/CheeYoonMovie"><img src="https://img.shields.io/badge/CheeYoonMovie[영화리뷰사이트]-000000?style=flat&logo=github&logoColor=white"/></a>
-  - 두번째 팀 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/bowow"><img src="https://img.shields.io/badge/bowow[애견용품쇼핑몰]-BE8D6E?style=flat&logo=github&logoColor=white"/></a>
-  - 학원 공부일지 (6개월) &nbsp; <a href="https://github.com/Alipheese16th/webPro"><img src="https://img.shields.io/badge/공부일지-0000FF?style=flat&logo=github&logoColor=white"/></a>
+  - 학원 공부일지 (6개월) &nbsp; <a href="https://github.com/Alipheese16th/webPro"><img src="https://img.shields.io/badge/공부일지-2fa2a8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  - 첫번째 개인 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/CheeYoonMovie"><img src="https://img.shields.io/badge/CheeYoonMovie[영화리뷰사이트]-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  - 두번째 팀 프로젝트 포트폴리오 &nbsp; <a href="https://github.com/Alipheese16th/bowow"><img src="https://img.shields.io/badge/bowow[애견용품쇼핑몰]-BE8D6E?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+  
+ # 백준 코딩 테스트
+ <a href="https://github.com/Alipheese16th/CodingTest"><img src="https://img.shields.io/badge/CodingTest-black?style=social&logo=github"/></a>
+  <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwoo1103)](https://solved.ac/shwoo1103/)-->
  # Modeling & Unity
  <a href="https://github.com/Alipheese16th/metabus"><img src="https://img.shields.io/badge/Modeling%20%26%20Unity-purple?style=social&logo=github"/></a>
  
