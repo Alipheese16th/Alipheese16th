@@ -8,8 +8,11 @@
  # 백준 코딩 테스트
  <a href="https://github.com/Alipheese16th/CodingTest"><img src="https://img.shields.io/badge/CodingTest-black?style=social&logo=github"/></a>
   <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwoo1103)](https://solved.ac/shwoo1103/)-->
+
+  <!--
  # Modeling & Unity
  <a href="https://github.com/Alipheese16th/metabus"><img src="https://img.shields.io/badge/Modeling%20%26%20Unity-purple?style=social&logo=github"/></a>
+ -->
  
  # 📚 SKIL
  
